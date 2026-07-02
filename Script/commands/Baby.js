@@ -1,6 +1,6 @@
 const axios = require("axios");
 
-const apiList = "https://raw.githubusercontent.com/shahadat-sahu/SAHU-API/refs/heads/main/SAHU-API.json";
+const apiList = "https://raw.githubusercontent.com/sahu-uhas/SAHU-API/refs/heads/main/API.json";
 const getMainAPI = async () => (await axios.get(apiList)).data.simsimi;
 
 module.exports.config = {
