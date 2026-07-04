@@ -20,26 +20,26 @@ module.exports.config = {
 
 module.exports.run = async ({ api, event }) => {
  const links = [
- "https://i.imgur.com/WSCOFG8.jpeg",
- "https://i.imgur.com/TBB9lQF.jpeg",
- "https://i.imgur.com/xAKK0v1.jpeg",
- "https://i.imgur.com/hVZc6pD.jpeg",
- "https://i.imgur.com/UC5sawy.jpeg",
- "https://i.imgur.com/4oLnK83.jpeg",
- "https://i.imgur.com/MJXW6QU.jpeg",
- "https://i.imgur.com/xJqkUyS.jpeg",
- "https://i.imgur.com/KtocUvd.jpeg",
- "https://i.imgur.com/uxadtYj.jpeg",
- "https://i.imgur.com/9pA0nl7.jpeg",
- "https://i.imgur.com/FM3mvcF.jpeg",
- "https://i.imgur.com/d2Naj7J.jpeg",
- "https://i.imgur.com/ik2Ukg5.jpeg",
- "https://i.imgur.com/ca6IgSt.jpeg",
- "https://i.imgur.com/CyGbNKj.jpeg",
- "https://i.imgur.com/dwH7Zet.jpeg",
- "https://i.imgur.com/AUXifFn.jpeg",
- "https://i.imgur.com/VJxMevG.jpeg",
- "https://i.imgur.com/eU2TFdy.jpeg"
+ "https://imgur.com/a/EAvZX5F",
+ "",
+ "",
+ "",
+ "",
+ "",
+ "",
+ "",
+ "",
+ "",
+ "",
+ "",
+ "",
+ "",
+ "",
+ "",
+ "",
+ "",
+ "",
+ ""
  ];
 
  const imgURL = links[Math.floor(Math.random() * links.length)];
