@@ -46,9 +46,9 @@ module.exports.run = async function ({ api, event, args, Users, Threads }) {
 │
 ├─ 👑 𝗡𝗮𝗺𝗲 : 𝐄𝐌𝐎𝐍 𝐁𝐎𝐒𝐃
 ├─ 📲 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 :
-│ facebook.com/100093525885304
+│ facebook.com/61592176090869
 ├─ 💌 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿 :
-│ m.me/100093525885304
+│ m.me/61592176090869
 ├─ 📞 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 :
 │ wa.me/+8801796565324
 │
@@ -65,10 +65,10 @@ module.exports.run = async function ({ api, event, args, Users, Threads }) {
  😍─꯭─⃝‌‌𝐄𝐌𝐎𝐍 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓 😘`;
 
  const imgLinks = [
- "https://imgur.com/a/EAvZX5F",
- "https://imgur.com/a/EAvZX5F",
- "https://imgur.com/a/EAvZX5F",
- "https://imgur.com/a/EAvZX5F"
+ "https://files.catbox.moe/zm4iov.jpg",
+ "https://files.catbox.moe/rdoz5a.jpg",
+ "https://files.catbox.moe/76bfzk.png",
+ "https://files.catbox.moe/eqbbpu.png"
  ];
 
  const imgLink = imgLinks[Math.floor(Math.random() * imgLinks.length)];
