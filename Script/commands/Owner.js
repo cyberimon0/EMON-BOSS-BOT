@@ -19,7 +19,7 @@ module.exports.run = async function ({ api, event }) {
 ╔═════════════════════ ✿
 ║ ✨ 𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢 ✨
 ╠═════════════════════ ✿
-║ 👑 𝗡𝗮𝗺𝗲 : 𝗘𝗠𝗢𝗡 𝗕𝗢𝗦𝗗
+║ 👑 𝗡𝗮𝗺𝗲 : 𝗘𝗠𝗢𝗡 𝗕𝗢𝗦𝗦
 ║ 🧸 𝗡𝗶𝗰𝗸 𝗡𝗮𝗺𝗲 : 𝗘𝗠𝗢𝗡
 ║ 🎂 𝗔𝗴𝗲 : 𝟭𝟴+
 ║ 💘 𝗥𝗲𝗹𝗮𝘁𝗶𝗼𝗻 : 𝗦𝗶𝗻𝗴𝗹𝗲
@@ -30,9 +30,9 @@ module.exports.run = async function ({ api, event }) {
 ║ 🔗 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗟𝗜𝗡𝗞𝗦
 ╠═════════════════════ ✿
 ║ 📘 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 :
-║ fb.com/100093525885304
+║ fb.com/61592176090869
 ║ 💬 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿 :
-║ m.me/100093525885304
+║ https://m.me/61592228195842
 ║ 📞 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 :
 ║ wa.me/01796565324
 ║ ✈️ 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 :
@@ -41,10 +41,10 @@ module.exports.run = async function ({ api, event }) {
 `;
 
   const images = [
-    "https://imgur.com/a/EAvZX5F",
-    "https://imgur.com/a/EAvZX5F",
-    "https://imgur.com/a/EAvZX5F",
-    "https://imgur.com/a/EAvZX5F"
+    "https://files.catbox.moe/76bfzk.png",
+    "https://files.catbox.moe/eqbbpu.png",
+    "https://files.catbox.moe/rdoz5a.jpg",
+    "https://files.catbox.moe/zm4iov.jpg"
   ];
 
   const randomImg = images[Math.floor(Math.random() * images.length)];
