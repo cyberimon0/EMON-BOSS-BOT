@@ -1,4 +1,4 @@
-### —͟͟͞͞𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐃 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓  𝐅𝐎𝐑𝐊  🌺  
+### —͟͟͞͞𝗜𝗠𝗥𝗔𝗡 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓  𝐅𝐎𝐑𝐊  🌺  
   
 ❖ **`A Messenger Multi Device Bot To Take Your Messenger To Another Level!`**   
   
@@ -9,7 +9,7 @@
 
 <!-- Image -->
 <p align="center">
-  <img src="https://i.imgur.com/u7VnPzH.png" width="300">
+  <img src="https://files.catbox.moe/eqbbpu.png" width="300">
 </p>
 
 <!-- COLORED + BOLD TITLE (NO ANIMATION) -->
@@ -17,7 +17,7 @@
 
   <!-- SHAHADAT CHAT BOT -->
   <span style="font-size: 32px; font-weight: 700; color:#00A8FF;">
-    SHAHADAT CHAT BOT
+    IMRAN CHAT BOT
   </span>
   <br>
 
@@ -158,15 +158,15 @@ ___
 
 ## 👨‍💻 ABOUT THE DEVELOPER
 
-**Name:** `SHAHADAT ISLAM`  
+**Name:** `IMRAN BOSS`  
 **Nice Name:** `SA HU`  
 **Profession:** `STUDENT & CHATBOT DEVELOPER`  
 **Location:** `KHAGRACHARI, BANGLADESH`
 
 #### 📞 CONTACT
 - **WhatsApp:** [WhatsApp Me](https://wa.me/+8801796565324)
-- **Facebook:** [Profile Me](https://facebook.com/100093525885304)
-- **Messenger:** [Message Me](https://m.me/100093525885304)
+- **Facebook:** [Profile Me](https://facebook.com/61592176090869)
+- **Messenger:** [Message Me](https://m.me/61592176090869)
 
 #### 🚀 APPROACH
 - 💻 Copy-paste techniques with deep customizations  
